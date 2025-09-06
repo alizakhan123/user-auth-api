@@ -1,4 +1,4 @@
-# User Authentication System
+# User Authentication API
 
 A simple Node.js + Express + MongoDB based User Authentication System with signup and login functionality.
 
