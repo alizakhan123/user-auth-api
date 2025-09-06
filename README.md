@@ -10,6 +10,7 @@ A simple Node.js + Express + MongoDB based User Authentication System with signu
 ## How to Run
 
 1. Clone the repository:
+
    git clone https://github.com/your-username/user-auth.git
    
    cd user-auth
@@ -19,6 +20,7 @@ A simple Node.js + Express + MongoDB based User Authentication System with signu
    npm install
 
 5. Create a .env file in the root folder and add your MongoDB connection:
+
    Example:
    
    MONGO_URI=mongodb://localhost:27019/users
