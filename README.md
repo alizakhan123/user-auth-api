@@ -29,8 +29,11 @@ A simple Node.js + Express + MongoDB based User Authentication System with signu
 
 👉 If you are using MongoDB Atlas, replace it with your own URL:
 
+
    MONGO_URI=mongodb+srv://<username>:<password>@cluster-url.mongodb.net/users
+
    PORT=5000
 
 4. Start the server:
+
    npm start
